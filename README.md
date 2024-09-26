@@ -1,4 +1,4 @@
-# Power BI Sales Dashboard Project
+# Power BI Amazon Sales Dashboard Project
 
 This repository contains a Power BI dashboard showcasing sales analysis for different product categories, countries, and time periods. The data used for this dashboard is stored in a CSV file. The dashboard includes visualizations for profit and sales trends, along with segmented data for detailed insights.
 
