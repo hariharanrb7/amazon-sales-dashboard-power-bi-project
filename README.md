@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard showcasing sales analysis for diff
 
 ## Dashboard Overview
 
-![Power BI Dashboard]()
+![Power BI Dashboard](./)
 
 ### Key Visualizations:
 1. **Profit by Product Category**: Pie chart showing profit breakdown by Technology, Furniture, and Office Supplies.
