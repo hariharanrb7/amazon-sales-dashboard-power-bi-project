@@ -46,7 +46,7 @@ The dataset used for this dashboard is stored in the [Amazon Data CSV](./Amazone
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hariharanrb7/powerbi-sales-dashboard.git
+    git clone https://github.com/hariharanrb7/amazon-sales-dashboard-power-bi-project.git
     ```
 2. Open Power BI Desktop.
 3. Load the `Amazone data.csv` file into Power BI.
