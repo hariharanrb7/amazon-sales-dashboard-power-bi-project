@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard showcasing sales analysis for diff
 
 ![Power BI Dashboard](./dashboard.jpg)
 
-##Amazon Profit according to region and categories of project insights
+## Amazon Profit according to region and categories of project insights
 ![Power BI Dashboard](https://github.com/hariharanrb7/amazon-sales-dashboard-power-bi-project/blob/b15969a76868e9c2bde0cbd7b0468aa27692d778/amazon%20profit%20insights%20dashboard.jpg)
 
 ### Key Visualizations:
