@@ -6,6 +6,9 @@ This repository contains a Power BI dashboard showcasing sales analysis for diff
 
 ![Power BI Dashboard](./dashboard.jpg)
 
+##Amazon Profit according to region and categories of project insights
+![Power BI Dashboard](https://github.com/hariharanrb7/amazon-sales-dashboard-power-bi-project/blob/b15969a76868e9c2bde0cbd7b0468aa27692d778/amazon%20profit%20insights%20dashboard.jpg)
+
 ### Key Visualizations:
 1. **Profit by Product Category**: Pie chart showing profit breakdown by Technology, Furniture, and Office Supplies.
 2. **Number of Sales by Product Category**: Donut chart visualizing the number of sales for each product category.
